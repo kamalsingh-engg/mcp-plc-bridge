@@ -1,0 +1,2 @@
+mcp[cli]==2.2.0
+pymodbus==3.15.0
